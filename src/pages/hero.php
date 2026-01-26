@@ -1,6 +1,6 @@
 <section id="hero" class="flex justify-between items-center gap-20 min-h-screen py-20">
     <picture class="flex-1 flex justify-center relative max-w-96 rounded-full">
-        <img src="assets/images/fotopuerco.jpg" alt="profile image" class="w-full h-auto rounded-full aspect-square object-center object-cover">
+        <img src="assets/images/profile.jpg" alt="profile image" class="w-full h-auto rounded-full aspect-square object-center object-cover">
         <a href="" class="absolute -bottom-2 px-4 py-1 bg-yellow-400 rounded-lg text-zinc-800 font-medium">
             Disponible
         </a>

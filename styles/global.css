@@ -40,3 +40,20 @@ button {
     /* background-image: radial-gradient(circle, #344B65, #243B55, #141E30); */
     background-image: radial-gradient(circle, #3f3f46, #27272a, #09090b);
 }
+
+
+.opacity-anim {
+    animation: 1.5s infinite opacity-anim;
+}
+
+@keyframes opacity-anim {
+    0% {
+        opacity: .7;
+    } 
+    50% {
+        opacity: .35;
+    }
+    100% {
+        opacity: .7;
+    }
+}

@@ -1,9 +1,9 @@
-<header class="fixed top-0 w-full flex justify-between items-center max-w-[1300px] z-50 backdrop-blur-xl">
+<header class="fixed top-0 w-full flex justify-between items-center max-w-[1300px] z-50 backdrop-blur-xl py-1">
     <a href="" class="flex gap-3 items-center">
       <div class="size-8 rounded-lg bg-blue-500"></div>
       <div class="flex flex-col justify-between items-start">
-        <p class="text-xl font-semibold">Brandon Barbosa</p>
-        <span class="text-gray-400">Dev portfolio</span>
+        <p class="text-lg font-semibold">Brandon Barbosa</p>
+        <span class="text-sm text-gray-400">Dev portfolio</span>
       </div>
     </a> 
     <div>
