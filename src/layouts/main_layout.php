@@ -15,7 +15,7 @@
 </head>
 <body id="app" class="relative flex flex-col items-center text-white">
   <?php require SRC . '/components/header.php'; ?>
-  <main id="main" class="w-full max-w-[1100px]">
+  <main id="main" class="w-full max-w-[1200px]">
     <?php 
       $sections = ['hero', 'about', 'experience', 'skills', 'projects', 'contact'];
       
